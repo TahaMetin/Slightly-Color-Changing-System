@@ -4,7 +4,7 @@
  
  
  
-##Material color RGB numbers cycle:
+## Material color RGB numbers cycle:
 
 R 	G 	B
 
@@ -29,7 +29,7 @@ In my case i set it to start over in 100 steps. so :
 1500 / 100 = 15
  
  
-##Light color RGB numbers cycle:
+## Light color RGB numbers cycle:
  
 R	G	B
 
