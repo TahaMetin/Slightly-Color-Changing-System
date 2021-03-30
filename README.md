@@ -5,19 +5,27 @@
  
  
 ##Material color RGB numbers cycle:
+
 R 	G 	B
 
 250	0	0
+
 250	0	250
+
 0	0	250
+
 0	250	250	
+
 0	250	0
+
 250	250	0
+
 250 0	0
 
 In my case i set it to start over in 100 steps. so :
 
 250 * 6 = 1500
+
 1500 / 100 = 15
  
  
@@ -26,11 +34,17 @@ In my case i set it to start over in 100 steps. so :
 R	G	B
 
 250	200	200
+
 250	200	250
+
 200	200	250
+
 200	250	250
+
 200	250	200
+
 250	250	200
+
 250	200	200
 
 50 * 6 = 300
