@@ -2,7 +2,7 @@
  Change material color and light color (light color more translucent)slightly on every trigger.
  I use this system at one of my games [click for see](https://play.google.com/store/apps/details?id=com.YeasWorld.FitIt)
  
- 
+<img align="right" alt="GIF" src="https://github.com/TahaMetin/Slightly-Color-Changing-System/blob/main/slightly color changing example.gif"/>
  
 ## Material color RGB numbers cycle:
 
